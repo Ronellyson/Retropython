@@ -8,6 +8,14 @@ https://kivy.org/doc/stable/installation/installation-windows.html
 
 Retropython is in the pre-alpha version, at the moment it only represents a concept.
 
+<h1><strong>Current state of development:</strong></h1>
+<h4>
+what has already been done:
+1) creation of a Sqlite database
+3) Dynamic game cover image</h4>
+
+![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-15%20231111.png)
+
 <h1><strong>Splashscreen</strong></h1>
 
 
