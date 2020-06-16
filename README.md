@@ -10,8 +10,8 @@ Retropython is in the pre-alpha version, at the moment it only represents a conc
 
 <h1><strong>Current state of development:</strong></h1>
 <h4>
-what has already been done:
-1) creation of a Sqlite database
+what has already been done:</br>
+1) creation of a Sqlite database</br>
 3) Dynamic game cover image</h4>
 
 ![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-16%20023314.png)
