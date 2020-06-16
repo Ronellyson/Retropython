@@ -9,8 +9,8 @@ https://kivy.org/doc/stable/installation/installation-windows.html
 Retropython is in the pre-alpha version, at the moment it only represents a concept.
 
 <h1><strong>Current state of development:</strong></h1>
-<h4><strong>
-what has already been done:</strong></br>
+<h4><strong><h3>
+what has already been done:</h3></strong></br>
 1) creation of a Sqlite database</br>
 3) Dynamic game cover image</h4>
 
