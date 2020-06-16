@@ -7,5 +7,8 @@ https://www.python.org/ftp/python/3.7.7/python-3.7.7-amd64.exe
 https://kivy.org/doc/stable/installation/installation-windows.html
 
 Retropython is in the pre-alpha version, at the moment it only represents a concept.
-<strong>Splashscreen</strong>
+
+<h1><strong>Splashscreen</strong></h1>
+
+
 ![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/SplashScreen.png)
