@@ -14,7 +14,7 @@ what has already been done:
 1) creation of a Sqlite database
 3) Dynamic game cover image</h4>
 
-![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-15%20231111.png)
+![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-16%20023314.png)
 
 <h1><strong>Splashscreen</strong></h1>
 
