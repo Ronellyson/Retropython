@@ -8,3 +8,4 @@ https://kivy.org/doc/stable/installation/installation-windows.html
 
 Retropython is in the pre-alpha version, at the moment it only represents a concept.
 
+![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/SplashScreen.png)
