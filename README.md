@@ -19,7 +19,7 @@ what has already been done:</h3></strong></br>
 
 <h1><srong>Prototype link in Adobe xd</strong></h1>
 
-<a href=“https://xd.adobe.com/view/06f6b222-6683-4793-562d-6fd7710b7a90-70c7/?fullscreen“>Flex Grid</a>
+<a href=“https://xd.adobe.com/view/06f6b222-6683-4793-562d-6fd7710b7a90-70c7/?fullscreen“>Clique Aqui</a>
  
  <h1><strong>Splashscreen:</strong></h1>
 
