@@ -18,7 +18,8 @@ what has already been done:</h3></strong></br>
 ![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-18%20091723.png)
 
 <h1><srong>Prototype link in Adobe xd</strong></h1>
-<a>https://xd.adobe.com/view/06f6b222-6683-4793-562d-6fd7710b7a90-70c7/?fullscreen</a>
+
+<a href=“https://xd.adobe.com/view/06f6b222-6683-4793-562d-6fd7710b7a90-70c7/?fullscreen“>Flex Grid</a>
  
  <h1><strong>Splashscreen:</strong></h1>
 
