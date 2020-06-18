@@ -17,12 +17,8 @@ what has already been done:</h3></strong></br>
 
 ![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-18%20091723.png)
 
-<h1><strong>Splashscreen:</strong></h1>
+![alt text](https://xd.adobe.com/view/06f6b222-6683-4793-562d-6fd7710b7a90-70c7/?fullscreen)
 
 
-![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/SplashScreen.png)
-
-<h1><strong>Home:</strong></h1>
 
 
-![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Home%20%E2%80%93%201.png)
