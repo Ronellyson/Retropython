@@ -19,9 +19,9 @@ what has already been done:</h3></strong></br>
 
 <h1><srong>Prototype link in Adobe xd</strong></h1>
 
-<a href=“https://xd.adobe.com/view/06f6b222-6683-4793-562d-6fd7710b7a90-70c7/?fullscreen“>Clique Aqui</a>
+[click here](https://xd.adobe.com/view/06f6b222-6683-4793-562d-6fd7710b7a90-70c7/screen/7dfea37b-f9fe-4182-8573-bb5c67ee7fd1/Home?fullscreen)
  
- <h1><strong>Splashscreen:</strong></h1>
+<h1><strong>Splashscreen:</strong></h1>
 
 
 ![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/SplashScreen.png)
