@@ -9,19 +9,20 @@ with con:
    list=crudService.getItems(cur, 'Games')  
 
    caminhodaimagem = ''
-# def getURLName():
-#       for Button in RetroPython:
-#              if('endereco'==[0]):
-#                return 'endereco'
-#                print ('endereco')
+
+def getURLDescription(id):
+   for descricao in list:
+      if(str(descricao[0]) == str(id)):
+         return descricao[4]  
+
 def getURLName(id):
    for nome in list:
-          if(nome[0]==id):
-                 return nome[1]
-   
-def getURLImage():
+      if(nome[0]==id):
+         return nome[1]
+
+def getURLImage(id):
    for imagem in list:
-      if(imagem[0] == 3):
+      if(str(imagem[0]) == str(id)):
          return imagem[3]
 
 def countItems():
