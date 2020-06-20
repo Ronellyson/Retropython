@@ -25,11 +25,12 @@ def getURLImage(id):
       if(str(imagem[0]) == str(id)):
          return imagem[3]
 
+def getURLISource(id):
+   for source in list:
+      if(str(source[0]) == str(id)):
+         return source[5]    
+
 def countItems():
       return crudService.countItems(cur,'Games')
-   # cur.execute("CREATE TABLE Games(Id INT, nome TEXT,categoria Text, imagem str)")
-   # cur.execute("INSERT INTO Games VALUES(1,'Junk Jungle' , 'Jogo de exploração de masmorra' ,'img/Junk Jungle.png')")
-   # cur.execute("INSERT INTO Games VALUES(2,'Alien_Conquer' , 'Shoot ´em Up' ,'img/Alien_Conquer.png')")
-   # cur.execute("INSERT INTO Games VALUES(3,'Mystic Mine','Puzze','img/Mystic Mine.png')")
-   # cur.execute("INSERT INTO Games VALUES(4,'Pixelman 3','Plataforma','img/Pixelman 3.png')") 
+  
 
