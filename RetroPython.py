@@ -7,7 +7,10 @@ from kivy.uix.button import Button
 from kivy.uix.floatlayout import FloatLayout
 from kivy.config import Config
 from kivy.core.window import Window
+from Games import *
 import gamelist 
+import os
+import subprocess as s
 
 #forçar framebuster
 # Config.set('graphics','widht','640')
@@ -42,8 +45,8 @@ class Retropython (App):
             description.text=gamelist.getURLDescription(button2.id)
         def LinkButton(button):
             button_source=gamelist.getURLISource(button.id)
-            open(button_source)
-            
+            # s.Popen(button_source)
+            os.startfile(button_source)
             
         for item in range(gamelist.countItems()):
             
