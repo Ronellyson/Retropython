@@ -13,7 +13,10 @@ Retropython is in the pre-alpha version, at the moment it only represents a conc
 what has already been done:</h3></strong></br>
 1) creation of a Sqlite database</br>
 3) Dynamic game cover image</br>
-3) It is now possible to change the layout types of each interface element</h4>
+3) It is now possible to change the layout types of each interface element</br>
+4) "see about" button has been added</br>
+5) Now the buttons can open the games
+</h4>
 
 ![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-21%20104025.png)
 
