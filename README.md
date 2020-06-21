@@ -15,7 +15,7 @@ what has already been done:</h3></strong></br>
 3) Dynamic game cover image</br>
 3) It is now possible to change the layout types of each interface element</h4>
 
-![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-18%20091723.png)
+![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Anota%C3%A7%C3%A3o%202020-06-21%20104025.png)
 
 <h1><srong>Prototype link in Adobe xd</strong></h1>
 
