@@ -1,4 +1,9 @@
 from kivy.app import App
+import os
+import subprocess as s
+import sys
+import gamelist 
+import webbrowser
 from kivy.uix.boxlayout import BoxLayout
 from kivy.uix.label import Label
 from kivy.uix.scrollview import ScrollView
@@ -8,9 +13,7 @@ from kivy.uix.floatlayout import FloatLayout
 from kivy.config import Config
 from kivy.core.window import Window
 from Games import *
-import gamelist 
-import os
-import subprocess as s
+
 
 #forçar framebuster
 # Config.set('graphics','widht','640')
@@ -44,10 +47,13 @@ class Retropython (App):
             wimg.source=gamelist.getURLImage(button2.id)
             description.text=gamelist.getURLDescription(button2.id)
         def LinkButton(button):
-            button_source=gamelist.getURLISource(button.id)
-            # s.Popen(button_source)
-            os.startfile(button_source)
-            
+            button_source_windows=gamelist.getURLISourceWin(button.id)
+            button_source_linux=gamelist.getURLISourceLinux(button.id)
+            plataforma = sys.platform
+            if 'win' in plataforma:
+                os.startfile(button_source_windows)
+            if 'linux' in plataforma:
+                s.Popen(button_source_linux)
         for item in range(gamelist.countItems()):
             
                 
