@@ -17,7 +17,7 @@ what has already been done:</h3></strong></br>
 4) All buttons are functional, games and can be executed by the button.
 </h4>
 
-![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/release.png)
+![alt text]()
 
 <h1><srong>Prototype link in Adobe xd</strong></h1>
 
