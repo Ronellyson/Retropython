@@ -26,12 +26,12 @@ what has already been done:</h3></strong></br>
 <h1><strong>Splashscreen:</strong></h1>
 
 
-![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/SplashScreen.png)
+![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Projeto/SplashScreen.png)
 
 <h1><strong>Home:</strong></h1>
 
 
-![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Home%20%E2%80%93%201.png)
+![alt text](https://github.com/Ronellyson/Retropython/blob/master/Retropython/Projeto/Home%20%E2%80%93%201.png)
 
  
 
